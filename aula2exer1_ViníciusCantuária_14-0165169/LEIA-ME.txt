@@ -1,0 +1,3 @@
+Projeto desenvolvido com python 3.7, pip 19.0.3, setuptools 40.8.0 no programa PyCharm 2018.3.5 (Community Edition).
+
+Para rodar o programa, vá ao diretório do projeto e rode o comando: 'python3 Principal.py'
